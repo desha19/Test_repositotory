@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "Hello user!"
 echo "Enter two numbers ..."
 read number1
 read number2
